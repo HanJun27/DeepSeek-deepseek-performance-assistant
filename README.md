@@ -1,7 +1,7 @@
 # DeepSeek 轻量级防卡顿助手
 
-[![Greasy Fork](https://img.shields.io/badge/Greasy%20Fork-DeepSeek--助手-green)](https://greasyfork.org/zh-CN/scripts/你的脚本ID)
-[![GitHub](https://img.shields.io/badge/GitHub-仓库-blue)](https://github.com/你的用户名/DeepSeek-Performance-Assistant)
+[![Greasy Fork](https://img.shields.io/badge/Greasy%20Fork-DeepSeek--助手-green)](https://greasyfork.org/zh-CN/scripts/568774-deepseek-%E8%BD%BB%E9%87%8F%E7%BA%A7%E9%98%B2%E5%8D%A1%E9%A1%BF%E5%8A%A9%E6%89%8B)
+[![GitHub](https://img.shields.io/badge/GitHub-仓库-blue)](https://github.com/HanJun27/DeepSeek-deepseek-performance-assistant)
 
 ## 📖 简介
 
@@ -23,7 +23,7 @@
 ## 🔧 安装方法
 
 1. 安装 [Tampermonkey](https://www.tampermonkey.net/) 浏览器扩展
-2. 点击 [这个链接](https://raw.githubusercontent.com/你的用户名/DeepSeek-Performance-Assistant/main/deepseek-performance-assistant.user.js) 安装脚本
+2. 点击 [这个链接](https://update.greasyfork.org/scripts/568774/DeepSeek%20%E8%BD%BB%E9%87%8F%E7%BA%A7%E9%98%B2%E5%8D%A1%E9%A1%BF%E5%8A%A9%E6%89%8B.user.js) 安装脚本
 3. 访问 [DeepSeek Chat](https://chat.deepseek.com/) 即可使用
 
 ## 📋 更新日志

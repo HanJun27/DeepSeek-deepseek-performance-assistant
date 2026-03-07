@@ -2,7 +2,7 @@
 // @name         DeepSeek 轻量级防卡顿助手
 // @name:zh-CN   DeepSeek 轻量级防卡顿助手
 // @name:en      DeepSeek Lightweight Performance Assistant
-// @namespace    https://github.com/你的用户名/DeepSeek-Performance-Assistant
+// @namespace    https://github.com/HanJun27/DeepSeek-deepseek-performance-assistant
 // @version      2.1
 // @description  监控内存、自动清理、智能刷新，防止DeepSeek网页版卡顿崩溃
 // @description:zh-CN 监控内存、自动清理、智能刷新，防止DeepSeek网页版卡顿崩溃
@@ -14,10 +14,10 @@
 // @license      MIT
 // @grant        none
 // @run-at       document-end
-// @homepageURL  https://github.com/你的用户名/DeepSeek-Performance-Assistant
-// @supportURL   https://github.com/你的用户名/DeepSeek-Performance-Assistant/issues
-// @downloadURL  https://raw.githubusercontent.com/你的用户名/DeepSeek-Performance-Assistant/main/deepseek-performance-assistant.user.js
-// @updateURL    https://raw.githubusercontent.com/你的用户名/DeepSeek-Performance-Assistant/main/deepseek-performance-assistant.user.js
+// @homepageURL  https://github.com/HanJun27/DeepSeek-deepseek-performance-assistant
+// @supportURL   https://github.com/HanJun27/DeepSeek-deepseek-performance-assistant/issues
+// @downloadURL  https://raw.githubusercontent.com/HanJun27/DeepSeek-deepseek-performance-assistant/main/deepseek-performance-assistant.user.js
+// @updateURL    https://raw.githubusercontent.com/HanJun27/DeepSeek-deepseek-performance-assistant/main/deepseek-performance-assistant.user.js
 // ==/UserScript==
 
 // ==UserScript==
